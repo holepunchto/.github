@@ -12,9 +12,12 @@ Take a look at [Keet Alpha](https://keet.io) for an example of what can be built
 * [Hyperswarm](https://github.com/holepunchto/hyperswarm)
 * [Hyperswarm DHT](https://github.com/holepunchto/hyperswarm-dht)
 
-### Data Structures
+### Core Data Structures
 * [Hypercore](https://github.com/holepunchto/hypercore)
+* [Corestore](https://github.com/holepunchto/corestore)
 * [Hyperbee](https://github.com/holepunchto/hyperbee)
+
+### File Management
 * [Hyperdrive](https://github.com/holepunchto/hyperdrive)
 * [Localdrive](https://github.com/holepunchto/localdrive)
 * [Mirrordrive](https://github.com/holepunchto/mirrordrive)
