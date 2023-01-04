@@ -24,9 +24,9 @@ Take a look at [Keet Alpha](https://keet.io) for an example of what can be built
 </td><td valign=top>
 
 ### File Management
-* [Hyperdrive](https://github.com/holepunchto/hyperdrive)
+* [Hyperdrive](https://github.com/holepunchto/hyperdrive-next)
 * [Localdrive](https://github.com/holepunchto/localdrive)
-* [Mirrordrive](https://github.com/holepunchto/mirrordrive)
+* [Mirrordrive](https://github.com/holepunchto/mirror-drive)
 
 </td><td valign=top>
 
