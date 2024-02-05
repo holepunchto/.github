@@ -6,7 +6,7 @@ Check out the [Holepunch Docs](https://docs.holepunch.to) for in-depth documenta
 
 Our mission is to provide you with all the building blocks you'll need to make unstoppable P2P apps: networking, data transfer, indexing, collaboration, and more.
 
-Take a look at [Keet Alpha](https://keet.io) for an example of what can be built with these tools.
+Take a look at [Keet Beta](https://keet.io) for an example of what can be built with these tools.
 
 <table border=0><tr><td valign=top>
 
