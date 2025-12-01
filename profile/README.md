@@ -2,7 +2,7 @@
 
 Here's where you'll find all the code that powers the Holepunch ecosystem.
 
-Check out the [Holepunch Docs](https://docs.holepunch.to) for in-depth documentation for all the modules here.
+Check out the [Pear Docs](https://docs.pears.com) for in-depth documentation for all the modules here.
 
 Our mission is to provide you with all the building blocks you'll need to make unstoppable P2P apps: networking, data transfer, indexing, collaboration, and more.
 
@@ -12,7 +12,7 @@ Take a look at [Keet Beta](https://keet.io) for an example of what can be built 
 
 ### Networking
 * [Hyperswarm](https://github.com/holepunchto/hyperswarm)
-* [Hyperswarm DHT](https://github.com/holepunchto/hyperswarm-dht)
+* [HyperDHT](https://github.com/holepunchto/hyperdht)
 
 </td><td valign=top>
 
